@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/backgroundhome"
+    tools:context="com.example.user.busbooking.Home">
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+        <TextView style="@style/title"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:id="@+id/namedisplay"
+            android:textSize="18dp"
+            android:textStyle="bold"
+            android:layout_alignParentRight="true"
+            android:layout_marginRight="10dp"
+            android:layout_marginTop="10dp"
+            android:text="Hi, Nibin"/>
+
+        <TextView style="@style/title"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textSize="14dp"
+            android:id="@+id/emaildisplay"
+            android:layout_marginRight="10dp"
+            android:layout_alignParentRight="true"
+            android:layout_below="@+id/namedisplay"
+            android:text="nibinsha@gmail.com"/>
+
+
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:orientation="vertical"
+            android:layout_marginTop="50dp"
+            android:gravity="center">
+
+            <ImageView
+                android:layout_width="80dp"
+                android:layout_height="80dp"
+                android:layout_marginTop="30dp"
+                android:layout_marginBottom="30dp"
+                android:src="@drawable/buslogo"
+                android:layout_gravity="center_horizontal"/>
+
+            <Button
+                android:id="@+id/bus_search"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:background="@color/buttoncolour"
+                android:layout_marginBottom="20dp"
+                android:layout_marginLeft="10dp"
+                android:layout_marginRight="10dp"
+                android:text="BUS SEARCH"/>
+
+            <Button
+                android:id="@+id/booking_details"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginBottom="20dp"
+                android:layout_marginLeft="10dp"
+                android:layout_marginRight="10dp"
+                android:background="@color/buttoncolour"
+                android:text="Booking details" />
+
+            <Button
+                android:id="@+id/feedback"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginBottom="20dp"
+                android:layout_marginLeft="10dp"
+                android:layout_marginRight="10dp"
+                android:background="@color/buttoncolour"
+                android:text="Feedback"/>
+
+
+            <Button
+                android:id="@+id/logout"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:background="@color/buttoncolour"
+                android:layout_marginBottom="20dp"
+                android:layout_marginLeft="10dp"
+                android:layout_marginRight="10dp"
+                android:text="Logout"/>
+
+        </LinearLayout>
+
+    </RelativeLayout>
+
+
+
+
+
+</ScrollView>

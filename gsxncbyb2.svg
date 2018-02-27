@@ -1,0 +1,327 @@
+<svg version="1.1" x="0" y="0" id="gsxncbyb2" diagram-revision="22" width="996.1" height="885.75" xmlns="http://www.w3.org/2000/svg" xmlns:xml="http://www.w3.org/XML/1998/namespace" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <g id="System-if7obksr-ko47" transform="translate(158.15,30.75)">
+    <desc>root/uml/useCase/subject?version=1&amp;author=Cinergix</desc>
+    <g id="image" transform="scale(2.133333206176758,2.4285714626312256)">
+      \
+      <rect vector-effect="non-scaling-stroke" x="0.5" y="0.5" fill="#FFFFFF" stroke="#2eb089" width="300" height="350" style="stroke:#2eb089;stroke-width:1.5;" stroke-width="1.5"/>
+    </g>
+    <text x="0" y="0" width="101.7" height="29.75" transform="translate(269.1,-30.75)">
+      <tspan x="7" y="17.92001953125" style="font-family:Lato;font-size:14px;fill:#959595;">Travel Agency</tspan>
+    </text>
+  </g>
+  <g id="Use Case-if7obksr-ko33" transform="translate(408.15,80.75)">
+    <desc>root/uml/useCase/useCase?version=1&amp;author=Cinergix</desc>
+    <g id="image" transform="scale(1.4835164546966553,1.4754098653793335)">
+      <ellipse vector-effect="non-scaling-stroke" fill="#2eb089" stroke="#2eb089" cx="45.5" cy="30.5" rx="45" ry="30" style="fill:#2eb089;stroke-width:1.5;stroke:#2eb089;" stroke-width="1.5"/>
+    </g>
+    <text x="0" y="0" width="86" height="29.75" transform="translate(24.45,32.1)">
+      <tspan x="7" y="17.92001953125" style="font-family:Lato;font-size:14px;fill:#ffffff;">Book a tour</tspan>
+    </text>
+  </g>
+  <g id="Use Case-if7obksr-ko34" transform="translate(225.65,220.75)">
+    <desc>root/uml/useCase/useCase?version=1&amp;author=Cinergix</desc>
+    <g id="image" transform="scale(1.4835052490234375,1.47540283203125)">
+      <ellipse vector-effect="non-scaling-stroke" fill="#2eb089" stroke="#2eb089" cx="45.5" cy="30.5" rx="45" ry="30" stroke-width="1.5" style="fill:#2eb089;stroke-width:1.5;stroke:#2eb089;"/>
+    </g>
+    <text x="0" y="0" width="125.3" height="48.75" transform="translate(4.8,22.6)">
+      <tspan x="7" y="17.92001953125" style="font-family:Lato;font-size:14px;fill:#ffffff;">Book airline ticket</tspan>
+      <tspan x="55.8" y="36.92001953125" style="font-family:Lato;font-size:14px;fill:#ffffff;">(s)</tspan>
+    </text>
+  </g>
+  <g id="Use Case-if7obksr-ko35" transform="translate(225.65,360.75)">
+    <desc>root/uml/useCase/useCase?version=1&amp;author=Cinergix</desc>
+    <g id="image" transform="scale(1.4835052490234375,1.47540283203125)">
+      <ellipse vector-effect="non-scaling-stroke" fill="#2eb089" stroke="#2eb089" cx="45.5" cy="30.5" rx="45" ry="30" stroke-width="1.5" style="fill:#2eb089;stroke-width:1.5;stroke:#2eb089;"/>
+    </g>
+    <text x="0" y="0" width="99.3" height="48.75" transform="translate(17.8,22.6)">
+      <tspan x="7" y="17.92001953125" style="font-family:Lato;font-size:14px;fill:#ffffff;">Deliver airline</tspan>
+      <tspan x="25.4" y="36.92001953125" style="font-family:Lato;font-size:14px;fill:#ffffff;">ticket(s)</tspan>
+    </text>
+  </g>
+  <g id="Use Case-if7obksr-ko36" transform="translate(603.15,225.75)">
+    <desc>root/uml/useCase/useCase?version=1&amp;author=Cinergix</desc>
+    <g id="image" transform="scale(1.4835052490234375,1.47540283203125)">
+      <ellipse vector-effect="non-scaling-stroke" fill="#2eb089" stroke="#2eb089" cx="45.5" cy="30.5" rx="45" ry="30" stroke-width="1.5" style="fill:#2eb089;stroke-width:1.5;stroke:#2eb089;"/>
+    </g>
+    <text x="0" y="0" width="102.9" height="29.75" transform="translate(16,32.1)">
+      <tspan x="7" y="17.92001953125" style="font-family:Lato;font-size:14px;fill:#ffffff;">Reserve a seat</tspan>
+    </text>
+  </g>
+  <g id="Use Case-if7obksr-ko37" transform="translate(603.15,370.75)">
+    <desc>root/uml/useCase/useCase?version=1&amp;author=Cinergix</desc>
+    <g id="image" transform="scale(1.4835052490234375,1.47540283203125)">
+      <ellipse vector-effect="non-scaling-stroke" fill="#2eb089" stroke="#2eb089" cx="45.5" cy="30.5" rx="45" ry="30" stroke-width="1.5" style="fill:#2eb089;stroke-width:1.5;stroke:#2eb089;"/>
+    </g>
+    <text x="0" y="0" width="92.55" height="29.75" transform="translate(21.2,32.1)">
+      <tspan x="7" y="17.92001953125" style="font-family:Lato;font-size:14px;fill:#ffffff;">Arrange tour</tspan>
+    </text>
+  </g>
+  <g id="Use Case-if7obksr-ko38" transform="translate(225.65,515.75)">
+    <desc>root/uml/useCase/useCase?version=1&amp;author=Cinergix</desc>
+    <g id="image" transform="scale(1.4835052490234375,1.47540283203125)">
+      <ellipse vector-effect="non-scaling-stroke" fill="#2eb089" stroke="#2eb089" cx="45.5" cy="30.5" rx="45" ry="30" stroke-width="1.5" style="fill:#2eb089;stroke-width:1.5;stroke:#2eb089;"/>
+    </g>
+    <text x="0" y="0" width="112.65" height="29.75" transform="translate(11.15,32.1)">
+      <tspan x="7" y="17.92001953125" style="font-family:Lato;font-size:14px;fill:#ffffff;">pay travel agent</tspan>
+    </text>
+  </g>
+  <g id="Use Case-if7obksr-ko39" transform="translate(603.15,515.75)">
+    <desc>root/uml/useCase/useCase?version=1&amp;author=Cinergix</desc>
+    <g id="image" transform="scale(1.4835052490234375,1.47540283203125)">
+      <ellipse vector-effect="non-scaling-stroke" fill="#2eb089" stroke="#2eb089" cx="45.5" cy="30.5" rx="45" ry="30" stroke-width="1.5" style="fill:#2eb089;stroke-width:1.5;stroke:#2eb089;"/>
+    </g>
+    <text x="0" y="0" width="98.95" height="48.75" transform="translate(18,22.6)">
+      <tspan x="7" y="17.92001953125" style="font-family:Lato;font-size:14px;fill:#ffffff;">Pay for airline</tspan>
+      <tspan x="29" y="36.92001953125" style="font-family:Lato;font-size:14px;fill:#ffffff;">tickets</tspan>
+    </text>
+  </g>
+  <g id="Use Case-if7obksr-ko40" transform="translate(228.15,725.75)">
+    <desc>root/uml/useCase/useCase?version=1&amp;author=Cinergix</desc>
+    <g id="image" transform="scale(1.4835052490234375,1.47540283203125)">
+      <ellipse vector-effect="non-scaling-stroke" fill="#2eb089" stroke="#2eb089" cx="45.5" cy="30.5" rx="45" ry="30" stroke-width="1.5" style="fill:#2eb089;stroke-width:1.5;stroke:#2eb089;"/>
+    </g>
+    <text x="0" y="0" width="90.3" height="48.75" transform="translate(22.3,22.6)">
+      <tspan x="7" y="17.92001953125" style="font-family:Lato;font-size:14px;fill:#ffffff;">Travel agent</tspan>
+      <tspan x="9" y="36.92001953125" style="font-family:Lato;font-size:14px;fill:#ffffff;">commission</tspan>
+    </text>
+  </g>
+  <g id="Use Case-if7obksr-ko41" transform="translate(603.15,715.75)">
+    <desc>root/uml/useCase/useCase?version=1&amp;author=Cinergix</desc>
+    <g id="image" transform="scale(1.4835052490234375,1.47540283203125)">
+      <ellipse vector-effect="non-scaling-stroke" fill="#2eb089" stroke="#2eb089" cx="45.5" cy="30.5" rx="45" ry="30" stroke-width="1.5" style="fill:#2eb089;stroke-width:1.5;stroke:#2eb089;"/>
+    </g>
+    <text x="0" y="0" width="87.55" height="29.75" transform="translate(23.7,32.1)">
+      <tspan x="7" y="17.92001953125" style="font-family:Lato;font-size:14px;fill:#ffffff;">Pay for tour</tspan>
+    </text>
+  </g>
+  <g id="Connector-if7obksr-ko42" transform="translate(-221.85,-74.25)">
+    <g id="graphics">
+      
+      <path d="M 572.4999999999999 315 L 639.9999999999999 225 " fill="none" stroke="#959595" stroke-width="1.5" stroke-dasharray="5,5" mask="url(#TextboxMask-Connector-if7obksr-ko42)"/>
+    </g>
+    <g id="toIcon" transform="translate(639.95,225) rotate(36.86989764584402)">
+      <metadata id="metadata3177">
+        <aaa:RDF xmlns:aaa="http://www.w3.org/1999/02/22-rdf-syntax-ns#"></aaa:RDF>
+      </metadata>
+      <defs id="defs3175"/>
+      <aaa:namedview pagecolor="#ffffff" bordercolor="#666666" borderopacity="1" objecttolerance="10" gridtolerance="10" guidetolerance="10" aab:pageopacity="0" aab:pageshadow="2" aab:window-width="1366" aab:window-height="706" id="namedview3173" showgrid="true" aab:zoom="256" aab:cx="-2.5166836" aab:cy="-0.69125367" aab:window-x="-8" aab:window-y="-8" aab:window-maximized="1" aab:current-layer="Layer_1" xmlns:aaa="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd" xmlns:aab="http://www.inkscape.org/namespaces/inkscape"></aaa:namedview>
+      <path d="m -7.9736756,9.3233563 c 5.688,-1.915 8.00000002,-8 8.00000002,-8 0,0 2.72899998,6.415 7.99999998,8" id="path3171" aaa:connector-curvature="0" style="fill:none;stroke-width:1.5;stroke:#959595;" stroke="#959595" stroke-width="1.5" xmlns:aaa="http://www.inkscape.org/namespaces/inkscape"/>
+    </g>
+    <text x="0" y="0" width="84.9" height="25.75" transform="translate(565.65,254.6)">
+      <tspan x="4.95" y="17.92001953125" style="font-family:Lato;font-size:14px;fill:#959595;">&lt;&lt;extend&gt;&gt;</tspan>
+    </text>
+    <mask id="TextboxMask-Connector-if7obksr-ko42" maskUnits="userSpaceOnUse" x="0" y="0" width="1500" height="1500">
+      <rect x="0" y="0" width="1500" height="1500" style="fill:white;"/>
+      <rect x="0" y="0" width="84.9" height="25.75" transform="translate(565.65,254.6)"/>
+    </mask>
+  </g>
+  <g id="Connector-if7obksr-ko43" transform="translate(-221.85,-74.25)">
+    <g id="graphics">
+      
+      <path d="M 582.4999999999999 480 L 824.9999999999999 490 " fill="none" stroke="#959595" stroke-width="1.5" stroke-dasharray="5,5" mask="url(#TextboxMask-Connector-if7obksr-ko43)"/>
+    </g>
+    <g id="toIcon" transform="translate(824.95,490) rotate(92.36137465817562)">
+      <metadata id="metadata3177">
+        <aaa:RDF xmlns:aaa="http://www.w3.org/1999/02/22-rdf-syntax-ns#"></aaa:RDF>
+      </metadata>
+      <defs id="defs3175"/>
+      <aaa:namedview pagecolor="#ffffff" bordercolor="#666666" borderopacity="1" objecttolerance="10" gridtolerance="10" guidetolerance="10" aab:pageopacity="0" aab:pageshadow="2" aab:window-width="1366" aab:window-height="706" id="namedview3173" showgrid="true" aab:zoom="256" aab:cx="-2.5166836" aab:cy="-0.69125367" aab:window-x="-8" aab:window-y="-8" aab:window-maximized="1" aab:current-layer="Layer_1" xmlns:aaa="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd" xmlns:aab="http://www.inkscape.org/namespaces/inkscape"></aaa:namedview>
+      <path d="m -7.9736756,9.3233563 c 5.688,-1.915 8.00000002,-8 8.00000002,-8 0,0 2.72899998,6.415 7.99999998,8" id="path3171" aaa:connector-curvature="0" style="fill:none;stroke-width:1.5;stroke:#959595;" stroke="#959595" stroke-width="1.5" xmlns:aaa="http://www.inkscape.org/namespaces/inkscape"/>
+    </g>
+    <text x="0" y="0" width="84.9" height="25.75" transform="translate(661.3,472.1)">
+      <tspan x="4.95" y="17.92001953125" style="font-family:Lato;font-size:14px;fill:#959595;">&lt;&lt;extend&gt;&gt;</tspan>
+    </text>
+    <mask id="TextboxMask-Connector-if7obksr-ko43" maskUnits="userSpaceOnUse" x="0" y="0" width="1500" height="1500">
+      <rect x="0" y="0" width="1500" height="1500" style="fill:white;"/>
+      <rect x="0" y="0" width="84.9" height="25.75" transform="translate(661.3,472.1)"/>
+    </mask>
+  </g>
+  <g id="Connector-if7obksr-ko44" transform="translate(-221.85,-74.25)">
+    <g id="graphics">
+      
+      <path d="M 582.4999999999999 635 L 824.9999999999999 635 " fill="none" stroke="#959595" stroke-width="1.5" stroke-dasharray="5,5" mask="url(#TextboxMask-Connector-if7obksr-ko44)"/>
+    </g>
+    <g id="toIcon" transform="translate(824.95,635) rotate(90)">
+      <metadata id="metadata3177">
+        <aaa:RDF xmlns:aaa="http://www.w3.org/1999/02/22-rdf-syntax-ns#"></aaa:RDF>
+      </metadata>
+      <defs id="defs3175"/>
+      <aaa:namedview pagecolor="#ffffff" bordercolor="#666666" borderopacity="1" objecttolerance="10" gridtolerance="10" guidetolerance="10" aab:pageopacity="0" aab:pageshadow="2" aab:window-width="1366" aab:window-height="706" id="namedview3173" showgrid="true" aab:zoom="256" aab:cx="-2.5166836" aab:cy="-0.69125367" aab:window-x="-8" aab:window-y="-8" aab:window-maximized="1" aab:current-layer="Layer_1" xmlns:aaa="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd" xmlns:aab="http://www.inkscape.org/namespaces/inkscape"></aaa:namedview>
+      <path d="m -7.9736756,9.3233563 c 5.688,-1.915 8.00000002,-8 8.00000002,-8 0,0 2.72899998,6.415 7.99999998,8" id="path3171" aaa:connector-curvature="0" style="fill:none;stroke-width:1.5;stroke:#959595;" stroke="#959595" stroke-width="1.5" xmlns:aaa="http://www.inkscape.org/namespaces/inkscape"/>
+    </g>
+    <text x="0" y="0" width="86.7" height="25.75" transform="translate(660.4,622.1)">
+      <tspan x="4.9" y="17.92001953125" style="font-family:Lato;font-size:14px;fill:#959595;">&lt;&lt;include&gt;&gt;</tspan>
+    </text>
+    <mask id="TextboxMask-Connector-if7obksr-ko44" maskUnits="userSpaceOnUse" x="0" y="0" width="1500" height="1500">
+      <rect x="0" y="0" width="1500" height="1500" style="fill:white;"/>
+      <rect x="0" y="0" width="86.7" height="25.75" transform="translate(660.4,622.1)"/>
+    </mask>
+  </g>
+  <g id="Connector-if7obksr-ko45" transform="translate(-221.85,-74.25)">
+    <g id="graphics">
+      
+      <path d="M 512.4999999999999 680 L 514.9999999999999 800 " fill="none" stroke="#959595" stroke-width="1.5" stroke-dasharray="5,5" mask="url(#TextboxMask-Connector-if7obksr-ko45)"/>
+    </g>
+    <g id="toIcon" transform="translate(514.95,800) rotate(178.80651057601796)">
+      <metadata id="metadata3177">
+        <aaa:RDF xmlns:aaa="http://www.w3.org/1999/02/22-rdf-syntax-ns#"></aaa:RDF>
+      </metadata>
+      <defs id="defs3175"/>
+      <aaa:namedview pagecolor="#ffffff" bordercolor="#666666" borderopacity="1" objecttolerance="10" gridtolerance="10" guidetolerance="10" aab:pageopacity="0" aab:pageshadow="2" aab:window-width="1366" aab:window-height="706" id="namedview3173" showgrid="true" aab:zoom="256" aab:cx="-2.5166836" aab:cy="-0.69125367" aab:window-x="-8" aab:window-y="-8" aab:window-maximized="1" aab:current-layer="Layer_1" xmlns:aaa="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd" xmlns:aab="http://www.inkscape.org/namespaces/inkscape"></aaa:namedview>
+      <path d="m -7.9736756,9.3233563 c 5.688,-1.915 8.00000002,-8 8.00000002,-8 0,0 2.72899998,6.415 7.99999998,8" id="path3171" aaa:connector-curvature="0" style="fill:none;stroke-width:1.5;stroke:#959595;" stroke="#959595" stroke-width="1.5" xmlns:aaa="http://www.inkscape.org/namespaces/inkscape"/>
+    </g>
+    <text x="0" y="0" width="86.7" height="25.75" transform="translate(470.4,727.1)">
+      <tspan x="4.95" y="17.92001953125" style="font-family:Lato;font-size:14px;fill:#959595;">&lt;&lt;include&gt;&gt;</tspan>
+    </text>
+    <mask id="TextboxMask-Connector-if7obksr-ko45" maskUnits="userSpaceOnUse" x="0" y="0" width="1500" height="1500">
+      <rect x="0" y="0" width="1500" height="1500" style="fill:white;"/>
+      <rect x="0" y="0" width="86.7" height="25.75" transform="translate(470.4,727.1)"/>
+    </mask>
+  </g>
+  <g id="Connector-if7obksr-ko46" transform="translate(-221.85,-74.25)">
+    <g id="graphics">
+      
+      <path d="M 890 680 L 890 790 " fill="none" stroke="#959595" stroke-width="1.5" stroke-dasharray="5,5" mask="url(#TextboxMask-Connector-if7obksr-ko46)"/>
+    </g>
+    <g id="toIcon" transform="translate(890,790) rotate(180)">
+      <metadata id="metadata3177">
+        <aaa:RDF xmlns:aaa="http://www.w3.org/1999/02/22-rdf-syntax-ns#"></aaa:RDF>
+      </metadata>
+      <defs id="defs3175"/>
+      <aaa:namedview pagecolor="#ffffff" bordercolor="#666666" borderopacity="1" objecttolerance="10" gridtolerance="10" guidetolerance="10" aab:pageopacity="0" aab:pageshadow="2" aab:window-width="1366" aab:window-height="706" id="namedview3173" showgrid="true" aab:zoom="256" aab:cx="-2.5166836" aab:cy="-0.69125367" aab:window-x="-8" aab:window-y="-8" aab:window-maximized="1" aab:current-layer="Layer_1" xmlns:aaa="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd" xmlns:aab="http://www.inkscape.org/namespaces/inkscape"></aaa:namedview>
+      <path d="m -7.9736756,9.3233563 c 5.688,-1.915 8.00000002,-8 8.00000002,-8 0,0 2.72899998,6.415 7.99999998,8" id="path3171" aaa:connector-curvature="0" style="fill:none;stroke-width:1.5;stroke:#959595;" stroke="#959595" stroke-width="1.5" xmlns:aaa="http://www.inkscape.org/namespaces/inkscape"/>
+    </g>
+    <text x="0" y="0" width="84.9" height="25.75" transform="translate(847.55,722.1)">
+      <tspan x="4.95" y="17.92001953125" style="font-family:Lato;font-size:14px;fill:#959595;">&lt;&lt;extend&gt;&gt;</tspan>
+    </text>
+    <mask id="TextboxMask-Connector-if7obksr-ko46" maskUnits="userSpaceOnUse" x="0" y="0" width="1500" height="1500">
+      <rect x="0" y="0" width="1500" height="1500" style="fill:white;"/>
+      <rect x="0" y="0" width="84.9" height="25.75" transform="translate(847.55,722.1)"/>
+    </mask>
+  </g>
+  <g id="Actor-if7obksr-ko48" transform="translate(13.150000000000006,285.75)">
+    <desc>root/uml/useCase/actor?version=1&amp;author=Cinergix</desc>
+    <g id="image">
+      <g>
+        <!--<polyline stroke="#000000" fill="none" points="40.396,80.458 20.818,54.099 0.396,80.5 "/>-->
+        <ellipse vector-effect="non-scaling-stroke" fill="#2eb089" stroke="#2eb089" cx="20.945" cy="10.58" rx="11.931" ry="10.08" style="fill:#2eb089;stroke-width:1.5;stroke:#2eb089;" stroke-width="1.5"/>
+        <line vector-effect="non-scaling-stroke" stroke="#2eb089" x1="40.396" y1="80.458" x2="20.818" y2="54.099" fill="#2eb089" style="fill:#2eb089;stroke-width:1.5;stroke:#2eb089;" stroke-width="1.5"/>
+        <line vector-effect="non-scaling-stroke" stroke="#2eb089" x1="20.818" y1="54.099" x2="0.396" y2="80.5" fill="#2eb089" style="fill:#2eb089;stroke-width:1.5;stroke:#2eb089;" stroke-width="1.5"/>
+        <line vector-effect="non-scaling-stroke" stroke="#2eb089" x1="20.945" y1="54.341" x2="20.945" y2="20.066" fill="#2eb089" style="fill:#2eb089;stroke-width:1.5;stroke:#2eb089;" stroke-width="1.5"/>
+        <line vector-effect="non-scaling-stroke" stroke="#2eb089" x1="2.156" y1="29.552" x2="39.19" y2="29.552" fill="#2eb089" style="fill:#2eb089;stroke-width:1.5;stroke:#2eb089;" stroke-width="1.5"/>
+      </g>
+    </g>
+    <text x="0" y="0" width="67.25" height="27.4" transform="translate(-13.2,90.8)">
+      <tspan x="0.5" y="15.950097656250001" style="font-family:Arial;font-size:12px;fill:#959595;">Travel Agent</tspan>
+    </text>
+  </g>
+  <g id="Actor-if7obksr-ko49" transform="translate(28.150000000000006,615.75)">
+    <desc>root/uml/useCase/actor?version=1&amp;author=Cinergix</desc>
+    <g id="image">
+      <g>
+        <!--<polyline stroke="#000000" fill="none" points="40.396,80.458 20.818,54.099 0.396,80.5 "/>-->
+        <ellipse vector-effect="non-scaling-stroke" fill="#2eb089" stroke="#2eb089" cx="20.945" cy="10.58" rx="11.931" ry="10.08" style="fill:#2eb089;stroke-width:1.5;stroke:#2eb089;" stroke-width="1.5"/>
+        <line vector-effect="non-scaling-stroke" stroke="#2eb089" x1="40.396" y1="80.458" x2="20.818" y2="54.099" fill="#2eb089" style="fill:#2eb089;stroke-width:1.5;stroke:#2eb089;" stroke-width="1.5"/>
+        <line vector-effect="non-scaling-stroke" stroke="#2eb089" x1="20.818" y1="54.099" x2="0.396" y2="80.5" fill="#2eb089" style="fill:#2eb089;stroke-width:1.5;stroke:#2eb089;" stroke-width="1.5"/>
+        <line vector-effect="non-scaling-stroke" stroke="#2eb089" x1="20.945" y1="54.341" x2="20.945" y2="20.066" fill="#2eb089" style="fill:#2eb089;stroke-width:1.5;stroke:#2eb089;" stroke-width="1.5"/>
+        <line vector-effect="non-scaling-stroke" stroke="#2eb089" x1="2.156" y1="29.552" x2="39.19" y2="29.552" fill="#2eb089" style="fill:#2eb089;stroke-width:1.5;stroke:#2eb089;" stroke-width="1.5"/>
+      </g>
+    </g>
+    <text x="0" y="0" width="52.85" height="27.4" transform="translate(-6,90.8)">
+      <tspan x="0.5" y="15.950097656250001" style="font-family:Arial;font-size:12px;fill:#959595;">Customer</tspan>
+    </text>
+  </g>
+  <g id="Actor-if7obksr-ko50" transform="translate(913.15,110.75)">
+    <desc>root/uml/useCase/actor?version=1&amp;author=Cinergix</desc>
+    <g id="image">
+      <g>
+        <!--<polyline stroke="#000000" fill="none" points="40.396,80.458 20.818,54.099 0.396,80.5 "/>-->
+        <ellipse vector-effect="non-scaling-stroke" fill="#2eb089" stroke="#2eb089" cx="20.945" cy="10.58" rx="11.931" ry="10.08" style="fill:#2eb089;stroke-width:1.5;stroke:#2eb089;" stroke-width="1.5"/>
+        <line vector-effect="non-scaling-stroke" stroke="#2eb089" x1="40.396" y1="80.458" x2="20.818" y2="54.099" fill="#2eb089" style="fill:#2eb089;stroke-width:1.5;stroke:#2eb089;" stroke-width="1.5"/>
+        <line vector-effect="non-scaling-stroke" stroke="#2eb089" x1="20.818" y1="54.099" x2="0.396" y2="80.5" fill="#2eb089" style="fill:#2eb089;stroke-width:1.5;stroke:#2eb089;" stroke-width="1.5"/>
+        <line vector-effect="non-scaling-stroke" stroke="#2eb089" x1="20.945" y1="54.341" x2="20.945" y2="20.066" fill="#2eb089" style="fill:#2eb089;stroke-width:1.5;stroke:#2eb089;" stroke-width="1.5"/>
+        <line vector-effect="non-scaling-stroke" stroke="#2eb089" x1="2.156" y1="29.552" x2="39.19" y2="29.552" fill="#2eb089" style="fill:#2eb089;stroke-width:1.5;stroke:#2eb089;" stroke-width="1.5"/>
+      </g>
+    </g>
+    <text x="0" y="0" width="59.15" height="42.75" transform="translate(-9.15,90.8)">
+      <tspan x="8" y="15.920019531249999" style="font-family:Lato;font-size:14px;fill:#959595;">Air line</tspan>
+      <tspan x="0.6" y="30.92001953125" style="font-family:Lato;font-size:14px;fill:#959595;">Company</tspan>
+    </text>
+  </g>
+  <g id="Actor-if7obksr-ko51" transform="translate(928.15,585.75)">
+    <desc>root/uml/useCase/actor?version=1&amp;author=Cinergix</desc>
+    <g id="image">
+      <g>
+        <!--<polyline stroke="#000000" fill="none" points="40.396,80.458 20.818,54.099 0.396,80.5 "/>-->
+        <ellipse vector-effect="non-scaling-stroke" fill="#2eb089" stroke="#2eb089" cx="20.945" cy="10.58" rx="11.931" ry="10.08" style="fill:#2eb089;stroke-width:1.5;stroke:#2eb089;" stroke-width="1.5"/>
+        <line vector-effect="non-scaling-stroke" stroke="#2eb089" x1="40.396" y1="80.458" x2="20.818" y2="54.099" fill="#2eb089" style="fill:#2eb089;stroke-width:1.5;stroke:#2eb089;" stroke-width="1.5"/>
+        <line vector-effect="non-scaling-stroke" stroke="#2eb089" x1="20.818" y1="54.099" x2="0.396" y2="80.5" fill="#2eb089" style="fill:#2eb089;stroke-width:1.5;stroke:#2eb089;" stroke-width="1.5"/>
+        <line vector-effect="non-scaling-stroke" stroke="#2eb089" x1="20.945" y1="54.341" x2="20.945" y2="20.066" fill="#2eb089" style="fill:#2eb089;stroke-width:1.5;stroke:#2eb089;" stroke-width="1.5"/>
+        <line vector-effect="non-scaling-stroke" stroke="#2eb089" x1="2.156" y1="29.552" x2="39.19" y2="29.552" fill="#2eb089" style="fill:#2eb089;stroke-width:1.5;stroke:#2eb089;" stroke-width="1.5"/>
+      </g>
+    </g>
+    <text x="0" y="0" width="95.1" height="27.4" transform="translate(-27.15,90.8)">
+      <tspan x="0.5" y="15.950097656250001" style="font-family:Arial;font-size:12px;fill:#959595;">Touring Company</tspan>
+    </text>
+  </g>
+  <g id="Connector-if7obksr-ko52" transform="translate(-221.85,-74.25)">
+    <g id="graphics">
+      
+      <path d="M 274.99999999999994 390 L 447.49999999999994 340 " fill="none" stroke="#959595" stroke-width="1.5"/>
+    </g>
+  </g>
+  <g id="Connector-if7obksr-ko53" transform="translate(-221.85,-74.25)">
+    <g id="graphics">
+      
+      <path d="M 274.99999999999994 390 L 447.49999999999994 480 " fill="none" stroke="#959595" stroke-width="1.5"/>
+    </g>
+  </g>
+  <g id="Connector-if7obksr-ko54" transform="translate(-221.85,-74.25)">
+    <g id="graphics">
+      
+      <path d="M 274.99999999999994 390 L 447.49999999999994 635 " fill="none" stroke="#959595" stroke-width="1.5"/>
+    </g>
+  </g>
+  <g id="Connector-if7obksr-ko55" transform="translate(-221.85,-74.25)">
+    <g id="graphics">
+      
+      <path d="M 289.99999999999994 720 L 457.49999999999994 360 " fill="none" stroke="#959595" stroke-width="1.5"/>
+    </g>
+  </g>
+  <g id="Connector-if7obksr-ko56" transform="translate(-221.85,-74.25)">
+    <g id="graphics">
+      
+      <path d="M 289.99999999999994 720 L 457.49999999999994 655 " fill="none" stroke="#959595" stroke-width="1.5"/>
+    </g>
+  </g>
+  <g id="Connector-if7obksr-ko57" transform="translate(-221.85,-74.25)">
+    <g id="graphics">
+      
+      <path d="M 1135 215 L 582.4999999999999 340 " fill="none" stroke="#959595" stroke-width="1.5"/>
+    </g>
+  </g>
+  <g id="Connector-if7obksr-ko58" transform="translate(-221.85,-74.25)">
+    <g id="graphics">
+      
+      <path d="M 1135 215 L 960 345 " fill="none" stroke="#959595" stroke-width="1.5"/>
+    </g>
+  </g>
+  <g id="Connector-if7obksr-ko59" transform="translate(-221.85,-74.25)">
+    <g id="graphics">
+      
+      <path d="M 1135 215 L 960 635 " fill="none" stroke="#959595" stroke-width="1.5"/>
+    </g>
+  </g>
+  <g id="Connector-if7obksr-ko61" transform="translate(-221.85,-74.25)">
+    <g id="graphics">
+      
+      <path d="M 1150 690 L 960 835 " fill="none" stroke="#959595" stroke-width="1.5"/>
+    </g>
+  </g>
+  <g id="Connector-if7obksr-ko60" transform="translate(-221.85,-74.25)">
+    <g id="graphics">
+      
+      <path d="M 1150 690 L 960 490 " fill="none" stroke="#959595" stroke-width="1.5"/>
+    </g>
+  </g>
+</svg>

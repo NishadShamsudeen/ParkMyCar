@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="C:\Users\LENOVO\Desktop\ANDROID\BusBooking\app\libs\gson-2.2.4.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="a60a5e993c98c864010053cb901b7eab25306568">
+        <dex dex="C:\Users\LENOVO\Desktop\ANDROID\BusBooking\app\build\intermediates\pre-dexed\debug\gson-2.2.4_c7fd8da7fd61b263fe8e3cada002e16a879978af.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\LENOVO\Desktop\ANDROID\BusBooking\app\libs\KGJsonConverter.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="cea743dc2e193922f7e7dc34858ef15b00afc6db">
+        <dex dex="C:\Users\LENOVO\Desktop\ANDROID\BusBooking\app\build\intermediates\pre-dexed\debug\KGJsonConverter_41ce45522ec7852b9593fb0b770ddd7623f8b4d1.jar" />
+    </item>
+
+</items>

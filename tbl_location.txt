@@ -1,0 +1,21 @@
+
+<?php
+include 'connect.php';
+$m=$_REQUEST["busid"];
+$o=$_REQUEST["lat"];
+$n2=$_REQUEST["lot"];
+$ps=mysqli_query($con,"insert into tbl_location(busid,lat,lot)values('$m','$o','$n2')");
+if($ps==1)
+{
+echo 1;
+}
+else
+{
+echo 0;
+}
+
+
+//echo $s;
+
+?>
+

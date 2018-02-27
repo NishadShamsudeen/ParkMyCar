@@ -1,0 +1,256 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/backgroundhome"
+    tools:context="com.example.user.busbooking.TravellerInformation">
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_above="@+id/bookb"
+        android:id="@+id/scrollviewid">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:orientation="vertical">
+
+
+
+            <TextView style="@style/title"
+                android:textSize="18sp"
+                android:layout_marginTop="20dp"
+                android:layout_marginLeft="10dp"
+                android:layout_marginBottom="15dp"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="Traveller Information"/>
+
+            <TextView style="@style/title"
+                android:padding="4dp"
+                android:gravity="center"
+                android:layout_marginLeft="10dp"
+                android:layout_marginRight="10dp"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:background="@color/bgyellow"
+                android:text="Note: Name should be same as in ID proof." />
+
+            <TextView style="@style/title"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="10dp"
+                android:textSize="15sp"
+                android:layout_marginTop="15dp"
+                android:textStyle="bold"
+                android:text="Passenger"/>
+
+            <EditText
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="10dp"
+                android:layout_marginBottom="10dp"
+                android:layout_marginLeft="10dp"
+                android:layout_marginRight="10dp"
+                android:hint="Primary passanger Full Name"
+                android:id="@+id/pname"/>
+            <EditText
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginBottom="10dp"
+                android:layout_marginLeft="10dp"
+                android:layout_marginRight="10dp"
+                android:hint="Age"
+                android:id="@+id/page"/>
+
+            <TextView
+                android:id="@+id/textView"
+                style="@style/title"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginBottom="10dp"
+                android:layout_marginLeft="10dp"
+                android:layout_marginTop="10dp"
+                android:textSize="15sp"
+                android:text="Contact Information"
+                android:textStyle="bold" />
+
+            <EditText
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginBottom="10dp"
+                android:layout_marginLeft="10dp"
+                android:layout_marginRight="10dp"
+                android:hint="Mobile"
+                android:id="@+id/pphone"/>
+            <EditText
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginBottom="10dp"
+                android:layout_marginLeft="10dp"
+                android:layout_marginRight="10dp"
+                android:hint="Email"
+                android:id="@+id/pemail"/>
+
+
+            <TextView
+                android:id="@+id/textView2"
+                style="@style/title"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="10dp"
+                android:layout_marginTop="15dp"
+                android:text="Bus Details"
+                android:textSize="15sp"
+                android:textStyle="bold" />
+
+            <RelativeLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:paddingBottom="10dp"
+                android:background="@color/violet">
+
+                <TextView style="@style/title"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:id="@+id/bname"
+                    android:layout_marginLeft="10dp"
+                    android:layout_marginTop="15dp"
+                    android:text="Bus name:"/>
+
+                <TextView style="@style/title"
+                    android:layout_width="wrap_content"
+                    android:layout_height="match_parent"
+                    android:id="@+id/busname"
+                    android:layout_marginLeft="10dp"
+                    android:layout_marginTop="15dp"
+                    android:layout_marginRight="10dp"
+                    android:layout_alignParentRight="true"
+                    android:text="Kallada Tours and Travels"/>
+
+                <TextView style="@style/title"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:id="@+id/borigin"
+                    android:layout_below="@+id/bname"
+                    android:layout_marginLeft="10dp"
+                    android:layout_marginTop="15dp"
+                    android:text="origin:"/>
+
+                <TextView style="@style/title"
+                    android:layout_width="wrap_content"
+                    android:layout_height="match_parent"
+                    android:id="@+id/busorigin"
+                    android:layout_below="@+id/busname"
+                    android:layout_marginLeft="10dp"
+                    android:layout_marginTop="15dp"
+                    android:layout_marginRight="10dp"
+                    android:layout_alignParentRight="true"
+                    android:text="Kollam"/>
+
+                <TextView style="@style/title"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:id="@+id/bdestination"
+                    android:layout_below="@+id/borigin"
+                    android:layout_marginLeft="10dp"
+                    android:layout_marginTop="15dp"
+                    android:text="Destination:"/>
+
+                <TextView style="@style/title"
+                    android:layout_width="wrap_content"
+                    android:layout_height="match_parent"
+                    android:id="@+id/busdestination"
+                    android:layout_below="@+id/busorigin"
+                    android:layout_marginLeft="10dp"
+                    android:layout_marginTop="15dp"
+                    android:layout_marginRight="10dp"
+                    android:layout_alignParentRight="true"
+                    android:text="Kottayam"/>
+
+                <TextView style="@style/title"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:id="@+id/bdepature"
+                    android:layout_below="@+id/bdestination"
+                    android:layout_marginLeft="10dp"
+                    android:layout_marginTop="15dp"
+                    android:text="Depature Time:"/>
+
+                <TextView style="@style/title"
+                    android:layout_width="wrap_content"
+                    android:layout_height="match_parent"
+                    android:id="@+id/busdepature"
+                    android:layout_marginRight="10dp"
+                    android:layout_below="@+id/busdestination"
+                    android:layout_marginLeft="10dp"
+                    android:layout_marginTop="15dp"
+                    android:layout_alignParentRight="true"
+                    android:text="10:15PM"/>
+
+                <TextView style="@style/title"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:id="@+id/sno"
+                    android:layout_below="@+id/bdepature"
+                    android:layout_marginLeft="10dp"
+                    android:layout_marginTop="15dp"
+                    android:text="Seat No:"/>
+
+                <TextView style="@style/title"
+                    android:layout_width="wrap_content"
+                    android:layout_height="match_parent"
+                    android:id="@+id/seatno"
+                    android:layout_marginRight="10dp"
+                    android:layout_below="@+id/busdepature"
+                    android:layout_marginLeft="10dp"
+                    android:layout_marginTop="15dp"
+                    android:layout_alignParentRight="true"
+                    android:text="10,11"/>
+
+                <TextView style="@style/title"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:id="@+id/tamount"
+                    android:layout_below="@+id/sno"
+                    android:layout_marginLeft="10dp"
+                    android:layout_marginTop="15dp"
+                    android:text="Total Amount:"/>
+
+                <TextView style="@style/title"
+                    android:layout_width="wrap_content"
+                    android:layout_height="match_parent"
+                    android:id="@+id/totalamount"
+                    android:layout_marginRight="10dp"
+                    android:layout_below="@+id/seatno"
+                    android:layout_marginLeft="10dp"
+                    android:layout_marginTop="15dp"
+                    android:layout_alignParentRight="true"
+                    android:text="600"/>
+
+
+
+
+
+            </RelativeLayout>
+
+        </LinearLayout>
+
+    </ScrollView>
+
+    <Button
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/bookb"
+        android:layout_marginBottom="10dp"
+        android:layout_marginLeft="10dp"
+        android:layout_marginRight="10dp"
+        android:layout_marginTop="10dp"
+        android:layout_alignParentBottom="true"
+        android:background="@color/buttoncolour"
+        android:text="PROCEED TO PAY"/>
+
+</RelativeLayout>
